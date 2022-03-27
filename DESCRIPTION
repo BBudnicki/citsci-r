@@ -11,3 +11,6 @@ LazyData: true
 RoxygenNote: 7.1.2
 URL: https://github.com/BBudnicki/citscir, https://citsci.org, https://citsci.org/developers
 BudReports: https://github.com/BBudnicki/citscir/issues
+Imports: 
+    httr,
+    jsonlite
