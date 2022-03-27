@@ -109,4 +109,5 @@ Some useful keyboard shortcuts for package authoring:
 
 ### Initial Development
 
-[Initial Setup Video](https://www.youtube.com/watch?v=79s3z0gIuFU)
+[Initial Setup
+Videos](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM)
