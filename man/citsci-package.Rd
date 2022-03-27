@@ -13,9 +13,9 @@ The source code for this library may be found at \url{ https://github.com/BBudni
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://github.com/BBudnicki/citscir}
   \item \url{https://citsci.org}
   \item \url{https://citsci.org/developers}
-  \item \url{https://github.com/BBudnicki/citscir}
 }
 
 }
