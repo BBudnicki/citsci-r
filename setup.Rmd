@@ -1,0 +1,31 @@
+# Setup
+
+Here are the setup steps to create this package. Do not run this code...
+
+```{r}
+library(devtools)
+packageVersion("devtools")
+```
+```{r}
+create_package("../citscir")
+```
+
+```{r}
+library(usethis)
+```
+
+```{r}
+use_git()
+
+```
+
+# Create new R function file
+
+```{r}
+use_r("demo1")
+
+```
+
+```{r}
+load_all()
+```
